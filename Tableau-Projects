@@ -1,0 +1,16 @@
+data-analytics-portfolio/
+│
+├── Tableau-Projects/
+│   ├── Epic-Games-Analysis/
+│   ├── Blinkit-Analysis/
+│   └── Olympics-Analysis/
+│
+├── SQL-Projects/
+│   ├── Croma-Analysis/
+│   └── Jio-Analysis/
+│
+├── Machine-Learning-Projects/
+│   ├── Flight-Fare-Prediction/
+│   └── (your other ML project)
+│
+└── README.md
