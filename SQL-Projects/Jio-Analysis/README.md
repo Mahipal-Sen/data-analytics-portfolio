@@ -1,7 +1,9 @@
 # Jio-Analysis
 
 ##  Project Overview
-This project focuses on analyzing employee and department data for Reliance Jio using SQL. The goal is to extract insights related to employee distribution, department budgets, and organizational structure to support HR decision-making.
+This project focuses on analyzing employee and department data for Reliance Jio using SQL.
+The goal is to extract insights related to employee distribution, department budgets, 
+and organizational structure to support HR decision-making.
 
 ##  Tools & Technologies
 - MySQL
@@ -36,7 +38,7 @@ Both tables are connected using **Dept_Code**.
 - Evaluated employee patterns based on names and departments  
 
 ##  Files
-- jio.sql (All SQL queries)
+- Reliance Jio Digita.sql (All SQL queries)
 
 ## 🚀 Conclusion
 This project demonstrates strong SQL skills including joins, aggregation, data manipulation, and real-world HR data analysis.
